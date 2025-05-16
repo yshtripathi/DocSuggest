@@ -41,7 +41,6 @@ DocSuggest/
 │   │   │       └── DocSuggestApplication.java
 │   │   └── resources/
 │   │       ├── application.properties
-│   │       └── data.sql (optional)
 ├── README.md
 ├── postman_collection.json
 └── pom.xml

@@ -34,9 +34,10 @@ DocSuggest/
 │   │   ├── java/
 │   │   │   └── com.example.docsuggest/
 │   │   │       ├── controller/
-│   │   │       ├── model/
-│   │   │       ├── repository/
-│   │   │       ├── service/
+│   │   │       ├── entity/
+│   │   │       ├── repositories/
+│   │   │       ├── services/
+│   │   │       ├── util/
 │   │   │       └── DocSuggestApplication.java
 │   │   └── resources/
 │   │       ├── application.properties
@@ -93,8 +94,6 @@ DocSuggest/
 ---
 
 ## 📸 Screenshots
-
-> Screenshots of API requests/responses via Postman should be added here. Upload these images to the repo and embed them using markdown:
 
 ```md
 ![Add Doctor](https://github.com/user-attachments/assets/387b3420-7e55-4dfe-9fc5-8e178b040cb0)

@@ -97,6 +97,7 @@ DocSuggest/
 ![Delete Doctor](https://github.com/user-attachments/assets/3a442268-7ae0-4153-b1fd-7bba3a56ea9b)
 ![Add Patient](https://github.com/user-attachments/assets/7f0636e9-7c48-42ab-ab75-5bfbc1c00815)
 ![Delete Patient](https://github.com/user-attachments/assets/303f7e11-bdb9-4f38-9157-2013bc1ff48c)
+![Suggest Doctor](https://github.com/user-attachments/assets/0713886f-a80d-432a-825c-1a4aca7bfbc4)
 ![Edge Case 1](https://github.com/user-attachments/assets/b9cc25e9-acf8-4022-a8c9-1a73eb708853)
 ![Edge Case 2](https://github.com/user-attachments/assets/614c68fb-42b5-4d6b-b188-609248176e8f)
 ```
@@ -104,7 +105,7 @@ DocSuggest/
 ---
 
 ## 🔗 Postman Collection
-[Uploa{
+{
 	"info": {
 		"_postman_id": "8d6e7e8d-f840-4f58-b26d-62219c6f6ece",
 		"name": "DocSuggest",
@@ -222,7 +223,7 @@ DocSuggest/
 			"response": []
 		}
 	]
-}ding DocSuggest.postman_collection.json…]()
+}
 
 
 

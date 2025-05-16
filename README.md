@@ -53,14 +53,12 @@ DocSuggest/
 ### 🔹 Doctor APIs
 
 - `POST /api/doctors` – Add new doctor  
-- `DELETE /api/doctors/{id}` – Remove doctor  
-- `GET /api/doctors` – List all doctors  
+- `DELETE /api/doctors/{id}` – Remove doctor    
 
 ### 🔹 Patient APIs
 
 - `POST /api/patients` – Add new patient  
-- `DELETE /api/patients/{id}` – Remove patient  
-- `GET /api/patients` – List all patients  
+- `DELETE /api/patients/{id}` – Remove patient   
 
 ### 🔹 Suggestion API
 

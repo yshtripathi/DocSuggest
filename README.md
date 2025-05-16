@@ -248,12 +248,5 @@ DocSuggest/
 3. Access Swagger UI (if enabled):  
    [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
----
-
-## 📅 Timeline
-
-Assignment submitted within **24 hours** as per Xcelore’s requirement.
-
----
 
 **Note:** This project was created as part of the **Java Technical Assignment for Xcelore.**

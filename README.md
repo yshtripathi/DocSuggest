@@ -94,8 +94,6 @@ DocSuggest/
 
 ```md
 ![Add Doctor](https://github.com/user-attachments/assets/387b3420-7e55-4dfe-9fc5-8e178b040cb0)
-![Add Doctor](Add Doctor.png)
-
 ![Delete Doctor](https://github.com/user-attachments/assets/3a442268-7ae0-4153-b1fd-7bba3a56ea9b)
 ![Add Patient](https://github.com/user-attachments/assets/7f0636e9-7c48-42ab-ab75-5bfbc1c00815)
 ![Delete Patient](https://github.com/user-attachments/assets/303f7e11-bdb9-4f38-9157-2013bc1ff48c)
